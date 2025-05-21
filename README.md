@@ -1,14 +1,21 @@
 # SearchMovie
 
-영화 검색 iOS 애플리케이션입니다.
+## 프로젝트 소개
+OMDB API를 활용한 영화 검색 및 즐겨찾기 iOS 앱입니다.
 
 <img width="534" alt="search_movie" src="https://github.com/user-attachments/assets/519c1f5e-5039-4a7f-a9ad-c7810604f590" />
 
-## 기능
+## 주요 기능
+### 검색 탭
+- 영화 검색
+- 2열 그리드 형태의 영화 목록
+- 무한 스크롤
+- 즐겨찾기 추가/제거
 
-- OMDB API를 활용한 영화 검색
-- 영화 상세 정보 조회
-- 즐겨찾기 기능
+### 즐겨찾기 탭
+- 즐겨찾기 영화 목록
+- 즐겨찾기 제거
+- Drag&Drop 순서 변경
 
 ## 프로젝트 정보
 - **Xcode**: 16.02
@@ -32,21 +39,6 @@ git clone https://github.com/yeon1216/SearchMovieIOS.git
    - `AppConfig.API.key`에 발급받은 API 키를 입력합니다.
 
 4. 프로젝트를 빌드하고 실행합니다.
-
-## 프로젝트 소개
-OMDB API를 활용한 영화 검색 및 즐겨찾기 iOS 앱입니다.
-
-## 주요 기능
-### 검색 탭
-- 영화 검색
-- 2열 그리드 형태의 영화 목록
-- 무한 스크롤
-- 즐겨찾기 추가/제거
-
-### 즐겨찾기 탭
-- 즐겨찾기 영화 목록
-- 즐겨찾기 제거
-- Drag&Drop 순서 변경
 
 ## 기술 스택
 - **UI**: SwiftUI
