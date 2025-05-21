@@ -2,6 +2,8 @@
 
 영화 검색 iOS 애플리케이션입니다.
 
+<img width="534" alt="search_movie" src="https://github.com/user-attachments/assets/519c1f5e-5039-4a7f-a9ad-c7810604f590" />
+
 ## 기능
 
 - OMDB API를 활용한 영화 검색
